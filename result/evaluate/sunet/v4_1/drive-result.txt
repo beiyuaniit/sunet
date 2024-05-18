@@ -1,0 +1,62 @@
+[image: 1]
+Dice coefficient: 0.8037
+IoU: 0.67
+
+[image: 2]
+Dice coefficient: 0.8292
+IoU: 0.71
+
+[image: 3]
+Dice coefficient: 0.7260
+IoU: 0.57
+
+[image: 4]
+Dice coefficient: 0.8052
+IoU: 0.67
+
+[image: 5]
+Dice coefficient: 0.7748
+IoU: 0.63
+
+[image: 6]
+Dice coefficient: 0.7681
+IoU: 0.62
+
+[image: 7]
+Dice coefficient: 0.7770
+IoU: 0.64
+
+[image: 8]
+Dice coefficient: 0.7450
+IoU: 0.59
+
+[image: 9]
+Dice coefficient: 0.7653
+IoU: 0.62
+
+[image: 10]
+Dice coefficient: 0.7801
+IoU: 0.64
+
+[image: 11]
+Dice coefficient: 0.7803
+IoU: 0.64
+
+[image: 12]
+Dice coefficient: 0.7897
+IoU: 0.65
+
+[image: 13]
+Dice coefficient: 0.7896
+IoU: 0.65
+
+[image: 14]
+Dice coefficient: 0.7874
+IoU: 0.65
+
+[image: 15]
+Dice coefficient: 0.7773
+IoU: 0.64
+
+Average Dice Coefficient: 0.7799
+Average IoU (Jaccard Index): 0.6398

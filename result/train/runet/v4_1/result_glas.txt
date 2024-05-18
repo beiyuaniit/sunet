@@ -1,0 +1,900 @@
+[epoch: 0]
+train_loss: 1.1284
+lr: 0.010000
+dice coefficient: 0.709
+global correct: 58.6
+average row correct: ['14.9', '92.2']
+IoU: ['13.5', '55.7']
+mean IoU: 34.6
+
+[epoch: 1]
+train_loss: 0.9999
+lr: 0.009909
+dice coefficient: 0.717
+global correct: 59.5
+average row correct: ['14.0', '94.5']
+IoU: ['13.0', '56.9']
+mean IoU: 35.0
+
+[epoch: 2]
+train_loss: 0.9691
+lr: 0.009818
+dice coefficient: 0.714
+global correct: 59.4
+average row correct: ['17.5', '91.6']
+IoU: ['15.8', '56.1']
+mean IoU: 35.9
+
+[epoch: 3]
+train_loss: 0.9327
+lr: 0.009727
+dice coefficient: 0.768
+global correct: 69.2
+average row correct: ['38.4', '92.8']
+IoU: ['35.2', '63.0']
+mean IoU: 49.1
+
+[epoch: 4]
+train_loss: 0.8985
+lr: 0.009636
+dice coefficient: 0.743
+global correct: 74.3
+average row correct: ['82.1', '68.4']
+IoU: ['58.2', '60.1']
+mean IoU: 59.1
+
+[epoch: 5]
+train_loss: 0.8070
+lr: 0.009544
+dice coefficient: 0.700
+global correct: 66.7
+average row correct: ['59.3', '72.5']
+IoU: ['43.7', '55.2']
+mean IoU: 49.4
+
+[epoch: 6]
+train_loss: 0.7990
+lr: 0.009453
+dice coefficient: 0.749
+global correct: 66.5
+average row correct: ['35.0', '90.7']
+IoU: ['31.2', '60.5']
+mean IoU: 45.9
+
+[epoch: 7]
+train_loss: 0.7944
+lr: 0.009361
+dice coefficient: 0.762
+global correct: 68.0
+average row correct: ['35.4', '93.1']
+IoU: ['32.4', '62.2']
+mean IoU: 47.3
+
+[epoch: 8]
+train_loss: 0.7035
+lr: 0.009270
+dice coefficient: 0.754
+global correct: 64.7
+average row correct: ['20.3', '98.7']
+IoU: ['20.0', '61.3']
+mean IoU: 40.6
+
+[epoch: 9]
+train_loss: 0.6846
+lr: 0.009178
+dice coefficient: 0.085
+global correct: 46.4
+average row correct: ['99.8', '5.4']
+IoU: ['44.7', '5.3']
+mean IoU: 25.0
+
+[epoch: 10]
+train_loss: 0.8096
+lr: 0.009086
+dice coefficient: 0.716
+global correct: 56.6
+average row correct: ['0.1', '100.0']
+IoU: ['0.1', '56.6']
+mean IoU: 28.3
+
+[epoch: 11]
+train_loss: 0.6957
+lr: 0.008994
+dice coefficient: 0.768
+global correct: 69.0
+average row correct: ['36.7', '93.9']
+IoU: ['34.0', '63.2']
+mean IoU: 48.6
+
+[epoch: 12]
+train_loss: 0.7422
+lr: 0.008902
+dice coefficient: 0.747
+global correct: 65.9
+average row correct: ['32.3', '91.8']
+IoU: ['29.2', '60.4']
+mean IoU: 44.8
+
+[epoch: 13]
+train_loss: 0.6935
+lr: 0.008810
+dice coefficient: 0.786
+global correct: 78.6
+average row correct: ['86.1', '72.9']
+IoU: ['63.6', '65.8']
+mean IoU: 64.7
+
+[epoch: 14]
+train_loss: 0.6427
+lr: 0.008718
+dice coefficient: 0.725
+global correct: 60.1
+average row correct: ['11.6', '97.2']
+IoU: ['11.2', '57.9']
+mean IoU: 34.6
+
+[epoch: 15]
+train_loss: 0.6350
+lr: 0.008625
+dice coefficient: 0.797
+global correct: 78.9
+average row correct: ['77.6', '80.0']
+IoU: ['61.6', '68.2']
+mean IoU: 64.9
+
+[epoch: 16]
+train_loss: 0.6443
+lr: 0.008533
+dice coefficient: 0.836
+global correct: 81.6
+average row correct: ['71.1', '89.6']
+IoU: ['62.6', '73.3']
+mean IoU: 68.0
+
+[epoch: 17]
+train_loss: 0.6761
+lr: 0.008440
+dice coefficient: 0.790
+global correct: 72.7
+average row correct: ['46.2', '93.0']
+IoU: ['42.4', '65.8']
+mean IoU: 54.1
+
+[epoch: 18]
+train_loss: 0.6397
+lr: 0.008348
+dice coefficient: 0.816
+global correct: 76.3
+average row correct: ['50.3', '96.4']
+IoU: ['48.0', '69.7']
+mean IoU: 58.9
+
+[epoch: 19]
+train_loss: 0.6150
+lr: 0.008255
+dice coefficient: 0.839
+global correct: 82.7
+average row correct: ['82.3', '83.1']
+IoU: ['67.4', '73.1']
+mean IoU: 70.3
+
+[epoch: 20]
+train_loss: 0.6077
+lr: 0.008162
+dice coefficient: 0.788
+global correct: 72.6
+average row correct: ['46.9', '92.3']
+IoU: ['42.6', '65.6']
+mean IoU: 54.1
+
+[epoch: 21]
+train_loss: 0.6779
+lr: 0.008069
+dice coefficient: 0.845
+global correct: 82.3
+average row correct: ['70.5', '91.4']
+IoU: ['63.4', '74.5']
+mean IoU: 69.0
+
+[epoch: 22]
+train_loss: 0.5661
+lr: 0.007976
+dice coefficient: 0.816
+global correct: 76.4
+average row correct: ['50.7', '96.1']
+IoU: ['48.3', '69.7']
+mean IoU: 59.0
+
+[epoch: 23]
+train_loss: 0.5573
+lr: 0.007882
+dice coefficient: 0.830
+global correct: 80.4
+average row correct: ['72.3', '86.7']
+IoU: ['61.6', '71.5']
+mean IoU: 66.5
+
+[epoch: 24]
+train_loss: 0.5194
+lr: 0.007789
+dice coefficient: 0.823
+global correct: 80.6
+average row correct: ['77.8', '82.8']
+IoU: ['63.6', '70.8']
+mean IoU: 67.2
+
+[epoch: 25]
+train_loss: 0.5224
+lr: 0.007696
+dice coefficient: 0.834
+global correct: 82.0
+average row correct: ['80.1', '83.5']
+IoU: ['65.9', '72.4']
+mean IoU: 69.2
+
+[epoch: 26]
+train_loss: 0.5978
+lr: 0.007602
+dice coefficient: 0.801
+global correct: 78.3
+average row correct: ['73.4', '82.0']
+IoU: ['59.5', '68.1']
+mean IoU: 63.8
+
+[epoch: 27]
+train_loss: 0.5504
+lr: 0.007508
+dice coefficient: 0.826
+global correct: 77.6
+average row correct: ['55.0', '94.9']
+IoU: ['51.6', '70.6']
+mean IoU: 61.1
+
+[epoch: 28]
+train_loss: 0.4642
+lr: 0.007414
+dice coefficient: 0.878
+global correct: 86.9
+average row correct: ['84.0', '89.1']
+IoU: ['73.6', '79.4']
+mean IoU: 76.5
+
+[epoch: 29]
+train_loss: 0.4563
+lr: 0.007320
+dice coefficient: 0.865
+global correct: 85.5
+average row correct: ['84.1', '86.6']
+IoU: ['71.6', '77.2']
+mean IoU: 74.4
+
+[epoch: 30]
+train_loss: 0.5190
+lr: 0.007226
+dice coefficient: 0.788
+global correct: 71.0
+average row correct: ['35.0', '98.7']
+IoU: ['34.4', '65.9']
+mean IoU: 50.1
+
+[epoch: 31]
+train_loss: 0.5514
+lr: 0.007132
+dice coefficient: 0.859
+global correct: 84.7
+average row correct: ['81.3', '87.3']
+IoU: ['69.8', '76.4']
+mean IoU: 73.1
+
+[epoch: 32]
+train_loss: 0.5058
+lr: 0.007037
+dice coefficient: 0.807
+global correct: 76.6
+average row correct: ['56.7', '91.9']
+IoU: ['51.3', '69.0']
+mean IoU: 60.1
+
+[epoch: 33]
+train_loss: 0.4930
+lr: 0.006943
+dice coefficient: 0.863
+global correct: 85.3
+average row correct: ['84.0', '86.3']
+IoU: ['71.3', '76.9']
+mean IoU: 74.1
+
+[epoch: 34]
+train_loss: 0.4676
+lr: 0.006848
+dice coefficient: 0.802
+global correct: 73.4
+average row correct: ['41.9', '97.6']
+IoU: ['40.6', '67.4']
+mean IoU: 54.0
+
+[epoch: 35]
+train_loss: 0.4451
+lr: 0.006753
+dice coefficient: 0.873
+global correct: 85.4
+average row correct: ['78.4', '90.8']
+IoU: ['70.0', '77.9']
+mean IoU: 74.0
+
+[epoch: 36]
+train_loss: 0.4313
+lr: 0.006658
+dice coefficient: 0.843
+global correct: 84.1
+average row correct: ['88.2', '80.9']
+IoU: ['70.7', '74.2']
+mean IoU: 72.4
+
+[epoch: 37]
+train_loss: 0.4551
+lr: 0.006563
+dice coefficient: 0.881
+global correct: 87.1
+average row correct: ['82.6', '90.6']
+IoU: ['73.6', '79.9']
+mean IoU: 76.7
+
+[epoch: 38]
+train_loss: 0.4771
+lr: 0.006467
+dice coefficient: 0.821
+global correct: 77.8
+average row correct: ['58.9', '92.4']
+IoU: ['53.6', '70.2']
+mean IoU: 61.9
+
+[epoch: 39]
+train_loss: 0.4606
+lr: 0.006372
+dice coefficient: 0.860
+global correct: 84.3
+average row correct: ['77.7', '89.3']
+IoU: ['68.2', '76.2']
+mean IoU: 72.2
+
+[epoch: 40]
+train_loss: 0.4561
+lr: 0.006276
+dice coefficient: 0.865
+global correct: 83.9
+average row correct: ['71.5', '93.5']
+IoU: ['65.9', '76.7']
+mean IoU: 71.3
+
+[epoch: 41]
+train_loss: 0.4381
+lr: 0.006180
+dice coefficient: 0.873
+global correct: 85.2
+average row correct: ['75.5', '92.8']
+IoU: ['69.0', '78.1']
+mean IoU: 73.5
+
+[epoch: 42]
+train_loss: 0.4658
+lr: 0.006084
+dice coefficient: 0.676
+global correct: 73.4
+average row correct: ['96.2', '55.9']
+IoU: ['61.1', '54.3']
+mean IoU: 57.7
+
+[epoch: 43]
+train_loss: 0.4032
+lr: 0.005988
+dice coefficient: 0.848
+global correct: 81.4
+average row correct: ['62.5', '95.9']
+IoU: ['59.3', '74.4']
+mean IoU: 66.8
+
+[epoch: 44]
+train_loss: 0.4098
+lr: 0.005892
+dice coefficient: 0.873
+global correct: 84.9
+average row correct: ['71.6', '95.2']
+IoU: ['67.4', '78.1']
+mean IoU: 72.8
+
+[epoch: 45]
+train_loss: 0.4282
+lr: 0.005795
+dice coefficient: 0.875
+global correct: 85.7
+average row correct: ['77.2', '92.3']
+IoU: ['70.2', '78.5']
+mean IoU: 74.3
+
+[epoch: 46]
+train_loss: 0.4198
+lr: 0.005699
+dice coefficient: 0.861
+global correct: 83.2
+average row correct: ['69.3', '93.8']
+IoU: ['64.1', '75.9']
+mean IoU: 70.0
+
+[epoch: 47]
+train_loss: 0.3982
+lr: 0.005602
+dice coefficient: 0.870
+global correct: 84.8
+average row correct: ['73.5', '93.4']
+IoU: ['67.7', '77.6']
+mean IoU: 72.6
+
+[epoch: 48]
+train_loss: 0.4045
+lr: 0.005505
+dice coefficient: 0.863
+global correct: 83.5
+average row correct: ['71.3', '92.9']
+IoU: ['65.3', '76.1']
+mean IoU: 70.7
+
+[epoch: 49]
+train_loss: 0.3979
+lr: 0.005408
+dice coefficient: 0.871
+global correct: 86.2
+average row correct: ['84.1', '87.8']
+IoU: ['72.6', '78.3']
+mean IoU: 75.4
+
+[epoch: 50]
+train_loss: 0.4074
+lr: 0.005310
+dice coefficient: 0.861
+global correct: 83.5
+average row correct: ['72.0', '92.3']
+IoU: ['65.5', '76.0']
+mean IoU: 70.7
+
+[epoch: 51]
+train_loss: 0.4211
+lr: 0.005212
+dice coefficient: 0.875
+global correct: 85.8
+average row correct: ['75.8', '93.4']
+IoU: ['69.8', '78.8']
+mean IoU: 74.3
+
+[epoch: 52]
+train_loss: 0.4044
+lr: 0.005115
+dice coefficient: 0.878
+global correct: 86.1
+average row correct: ['79.3', '91.3']
+IoU: ['71.2', '78.8']
+mean IoU: 75.0
+
+[epoch: 53]
+train_loss: 0.3920
+lr: 0.005017
+dice coefficient: 0.862
+global correct: 83.4
+average row correct: ['69.7', '93.9']
+IoU: ['64.6', '76.2']
+mean IoU: 70.4
+
+[epoch: 54]
+train_loss: 0.3893
+lr: 0.004918
+dice coefficient: 0.880
+global correct: 87.4
+average row correct: ['87.1', '87.6']
+IoU: ['75.0', '79.7']
+mean IoU: 77.4
+
+[epoch: 55]
+train_loss: 0.4036
+lr: 0.004820
+dice coefficient: 0.853
+global correct: 84.5
+average row correct: ['84.6', '84.4']
+IoU: ['70.4', '75.5']
+mean IoU: 72.9
+
+[epoch: 56]
+train_loss: 0.3905
+lr: 0.004721
+dice coefficient: 0.842
+global correct: 84.2
+average row correct: ['87.0', '82.1']
+IoU: ['70.5', '74.7']
+mean IoU: 72.6
+
+[epoch: 57]
+train_loss: 0.3665
+lr: 0.004622
+dice coefficient: 0.867
+global correct: 85.6
+average row correct: ['83.0', '87.7']
+IoU: ['71.5', '77.5']
+mean IoU: 74.5
+
+[epoch: 58]
+train_loss: 0.3295
+lr: 0.004523
+dice coefficient: 0.848
+global correct: 84.9
+average row correct: ['89.8', '81.2']
+IoU: ['72.1', '75.3']
+mean IoU: 73.7
+
+[epoch: 59]
+train_loss: 0.4268
+lr: 0.004424
+dice coefficient: 0.889
+global correct: 86.9
+average row correct: ['76.2', '95.1']
+IoU: ['71.6', '80.4']
+mean IoU: 76.0
+
+[epoch: 60]
+train_loss: 0.4271
+lr: 0.004324
+dice coefficient: 0.821
+global correct: 81.9
+average row correct: ['85.0', '79.6']
+IoU: ['67.1', '71.3']
+mean IoU: 69.2
+
+[epoch: 61]
+train_loss: 0.3880
+lr: 0.004224
+dice coefficient: 0.851
+global correct: 84.4
+average row correct: ['82.7', '85.7']
+IoU: ['69.7', '75.7']
+mean IoU: 72.7
+
+[epoch: 62]
+train_loss: 0.3831
+lr: 0.004124
+dice coefficient: 0.880
+global correct: 86.8
+average row correct: ['83.4', '89.5']
+IoU: ['73.3', '79.4']
+mean IoU: 76.4
+
+[epoch: 63]
+train_loss: 0.3752
+lr: 0.004023
+dice coefficient: 0.875
+global correct: 85.8
+average row correct: ['78.7', '91.3']
+IoU: ['70.7', '78.5']
+mean IoU: 74.6
+
+[epoch: 64]
+train_loss: 0.3724
+lr: 0.003923
+dice coefficient: 0.790
+global correct: 71.6
+average row correct: ['37.4', '97.8']
+IoU: ['36.3', '66.1']
+mean IoU: 51.2
+
+[epoch: 65]
+train_loss: 0.3393
+lr: 0.003822
+dice coefficient: 0.873
+global correct: 87.0
+average row correct: ['87.8', '86.4']
+IoU: ['74.5', '78.9']
+mean IoU: 76.7
+
+[epoch: 66]
+train_loss: 0.3580
+lr: 0.003720
+dice coefficient: 0.872
+global correct: 86.0
+average row correct: ['82.3', '88.8']
+IoU: ['71.9', '78.2']
+mean IoU: 75.0
+
+[epoch: 67]
+train_loss: 0.3138
+lr: 0.003619
+dice coefficient: 0.875
+global correct: 87.0
+average row correct: ['86.6', '87.4']
+IoU: ['74.4', '79.2']
+mean IoU: 76.8
+
+[epoch: 68]
+train_loss: 0.3280
+lr: 0.003517
+dice coefficient: 0.872
+global correct: 86.3
+average row correct: ['83.4', '88.5']
+IoU: ['72.6', '78.5']
+mean IoU: 75.6
+
+[epoch: 69]
+train_loss: 0.3454
+lr: 0.003415
+dice coefficient: 0.868
+global correct: 83.9
+average row correct: ['68.0', '96.1']
+IoU: ['64.8', '77.2']
+mean IoU: 71.0
+
+[epoch: 70]
+train_loss: 0.3661
+lr: 0.003312
+dice coefficient: 0.870
+global correct: 86.0
+average row correct: ['82.6', '88.5']
+IoU: ['71.9', '78.1']
+mean IoU: 75.0
+
+[epoch: 71]
+train_loss: 0.3451
+lr: 0.003209
+dice coefficient: 0.869
+global correct: 85.6
+average row correct: ['80.7', '89.3']
+IoU: ['70.8', '77.8']
+mean IoU: 74.3
+
+[epoch: 72]
+train_loss: 0.3321
+lr: 0.003106
+dice coefficient: 0.858
+global correct: 84.8
+average row correct: ['83.1', '86.1']
+IoU: ['70.3', '76.2']
+mean IoU: 73.2
+
+[epoch: 73]
+train_loss: 0.3619
+lr: 0.003002
+dice coefficient: 0.871
+global correct: 85.7
+average row correct: ['80.7', '89.5']
+IoU: ['71.0', '77.9']
+mean IoU: 74.5
+
+[epoch: 74]
+train_loss: 0.3473
+lr: 0.002898
+dice coefficient: 0.872
+global correct: 85.3
+average row correct: ['78.3', '90.6']
+IoU: ['69.8', '77.7']
+mean IoU: 73.7
+
+[epoch: 75]
+train_loss: 0.3902
+lr: 0.002793
+dice coefficient: 0.865
+global correct: 85.5
+average row correct: ['82.8', '87.6']
+IoU: ['71.2', '77.3']
+mean IoU: 74.3
+
+[epoch: 76]
+train_loss: 0.3335
+lr: 0.002688
+dice coefficient: 0.867
+global correct: 86.4
+average row correct: ['85.8', '86.8']
+IoU: ['73.2', '78.3']
+mean IoU: 75.7
+
+[epoch: 77]
+train_loss: 0.2999
+lr: 0.002583
+dice coefficient: 0.873
+global correct: 85.0
+average row correct: ['72.5', '94.6']
+IoU: ['67.8', '78.2']
+mean IoU: 73.0
+
+[epoch: 78]
+train_loss: 0.3257
+lr: 0.002477
+dice coefficient: 0.823
+global correct: 81.7
+average row correct: ['81.0', '82.3']
+IoU: ['65.8', '71.8']
+mean IoU: 68.8
+
+[epoch: 79]
+train_loss: 0.2997
+lr: 0.002371
+dice coefficient: 0.875
+global correct: 85.5
+average row correct: ['75.4', '93.3']
+IoU: ['69.4', '78.5']
+mean IoU: 73.9
+
+[epoch: 80]
+train_loss: 0.3248
+lr: 0.002264
+dice coefficient: 0.866
+global correct: 85.6
+average row correct: ['82.8', '87.7']
+IoU: ['71.4', '77.5']
+mean IoU: 74.4
+
+[epoch: 81]
+train_loss: 0.2838
+lr: 0.002156
+dice coefficient: 0.884
+global correct: 87.4
+average row correct: ['83.1', '90.6']
+IoU: ['74.0', '80.2']
+mean IoU: 77.1
+
+[epoch: 82]
+train_loss: 0.3986
+lr: 0.002048
+dice coefficient: 0.865
+global correct: 85.9
+average row correct: ['85.2', '86.4']
+IoU: ['72.3', '77.5']
+mean IoU: 74.9
+
+[epoch: 83]
+train_loss: 0.3002
+lr: 0.001939
+dice coefficient: 0.879
+global correct: 85.9
+average row correct: ['75.6', '93.7']
+IoU: ['69.9', '78.9']
+mean IoU: 74.4
+
+[epoch: 84]
+train_loss: 0.2984
+lr: 0.001830
+dice coefficient: 0.881
+global correct: 86.3
+average row correct: ['78.5', '92.3']
+IoU: ['71.3', '79.2']
+mean IoU: 75.2
+
+[epoch: 85]
+train_loss: 0.3090
+lr: 0.001720
+dice coefficient: 0.862
+global correct: 85.6
+average row correct: ['85.8', '85.4']
+IoU: ['72.1', '77.0']
+mean IoU: 74.5
+
+[epoch: 86]
+train_loss: 0.2907
+lr: 0.001609
+dice coefficient: 0.882
+global correct: 86.9
+average row correct: ['81.5', '91.1']
+IoU: ['73.0', '79.8']
+mean IoU: 76.4
+
+[epoch: 87]
+train_loss: 0.3288
+lr: 0.001497
+dice coefficient: 0.881
+global correct: 86.5
+average row correct: ['79.7', '91.8']
+IoU: ['72.0', '79.4']
+mean IoU: 75.7
+
+[epoch: 88]
+train_loss: 0.2698
+lr: 0.001384
+dice coefficient: 0.853
+global correct: 84.7
+average row correct: ['85.7', '84.0']
+IoU: ['70.9', '75.7']
+mean IoU: 73.3
+
+[epoch: 89]
+train_loss: 0.3239
+lr: 0.001270
+dice coefficient: 0.890
+global correct: 87.3
+average row correct: ['77.2', '95.0']
+IoU: ['72.5', '80.8']
+mean IoU: 76.6
+
+[epoch: 90]
+train_loss: 0.3055
+lr: 0.001155
+dice coefficient: 0.893
+global correct: 88.5
+average row correct: ['84.1', '91.8']
+IoU: ['76.0', '81.8']
+mean IoU: 78.9
+
+[epoch: 91]
+train_loss: 0.3127
+lr: 0.001039
+dice coefficient: 0.877
+global correct: 86.0
+average row correct: ['79.6', '90.9']
+IoU: ['71.2', '78.6']
+mean IoU: 74.9
+
+[epoch: 92]
+train_loss: 0.2730
+lr: 0.000922
+dice coefficient: 0.883
+global correct: 86.9
+average row correct: ['80.9', '91.4']
+IoU: ['72.8', '79.7']
+mean IoU: 76.3
+
+[epoch: 93]
+train_loss: 0.3707
+lr: 0.000802
+dice coefficient: 0.886
+global correct: 86.9
+average row correct: ['78.5', '93.3']
+IoU: ['72.2', '80.1']
+mean IoU: 76.2
+
+[epoch: 94]
+train_loss: 0.2813
+lr: 0.000681
+dice coefficient: 0.878
+global correct: 86.5
+average row correct: ['81.5', '90.4']
+IoU: ['72.4', '79.1']
+mean IoU: 75.7
+
+[epoch: 95]
+train_loss: 0.2935
+lr: 0.000557
+dice coefficient: 0.885
+global correct: 87.4
+average row correct: ['83.3', '90.6']
+IoU: ['74.1', '80.2']
+mean IoU: 77.2
+
+[epoch: 96]
+train_loss: 0.2986
+lr: 0.000430
+dice coefficient: 0.883
+global correct: 87.3
+average row correct: ['84.4', '89.5']
+IoU: ['74.2', '79.9']
+mean IoU: 77.1
+
+[epoch: 97]
+train_loss: 0.2541
+lr: 0.000298
+dice coefficient: 0.883
+global correct: 87.1
+average row correct: ['82.6', '90.5']
+IoU: ['73.5', '79.8']
+mean IoU: 76.7
+
+[epoch: 98]
+train_loss: 0.2724
+lr: 0.000160
+dice coefficient: 0.887
+global correct: 87.2
+average row correct: ['80.9', '92.1']
+IoU: ['73.3', '80.3']
+mean IoU: 76.8
+
+[epoch: 99]
+train_loss: 0.2826
+lr: 0.000000
+dice coefficient: 0.887
+global correct: 87.2
+average row correct: ['80.9', '92.1']
+IoU: ['73.4', '80.3']
+mean IoU: 76.9
+

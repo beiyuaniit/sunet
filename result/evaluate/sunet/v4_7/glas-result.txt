@@ -1,0 +1,242 @@
+[image: 1]
+Dice coefficient: 0.8251
+IoU: 0.70
+
+[image: 2]
+Dice coefficient: 0.7914
+IoU: 0.65
+
+[image: 3]
+Dice coefficient: 0.9223
+IoU: 0.86
+
+[image: 4]
+Dice coefficient: 0.8638
+IoU: 0.76
+
+[image: 5]
+Dice coefficient: 0.6548
+IoU: 0.49
+
+[image: 6]
+Dice coefficient: 0.7746
+IoU: 0.63
+
+[image: 7]
+Dice coefficient: 0.9497
+IoU: 0.90
+
+[image: 8]
+Dice coefficient: 0.8160
+IoU: 0.69
+
+[image: 9]
+Dice coefficient: 0.7564
+IoU: 0.61
+
+[image: 10]
+Dice coefficient: 0.8891
+IoU: 0.80
+
+[image: 11]
+Dice coefficient: 0.9008
+IoU: 0.82
+
+[image: 12]
+Dice coefficient: 0.9081
+IoU: 0.83
+
+[image: 13]
+Dice coefficient: 0.7205
+IoU: 0.56
+
+[image: 14]
+Dice coefficient: 0.8682
+IoU: 0.77
+
+[image: 15]
+Dice coefficient: 0.8778
+IoU: 0.78
+
+[image: 16]
+Dice coefficient: 0.8397
+IoU: 0.72
+
+[image: 17]
+Dice coefficient: 0.8874
+IoU: 0.80
+
+[image: 18]
+Dice coefficient: 0.6675
+IoU: 0.50
+
+[image: 19]
+Dice coefficient: 0.9010
+IoU: 0.82
+
+[image: 20]
+Dice coefficient: 0.8391
+IoU: 0.72
+
+[image: 21]
+Dice coefficient: 0.7610
+IoU: 0.61
+
+[image: 22]
+Dice coefficient: 0.9499
+IoU: 0.90
+
+[image: 23]
+Dice coefficient: 0.9582
+IoU: 0.92
+
+[image: 24]
+Dice coefficient: 0.9656
+IoU: 0.93
+
+[image: 25]
+Dice coefficient: 0.6726
+IoU: 0.51
+
+[image: 26]
+Dice coefficient: 0.9062
+IoU: 0.83
+
+[image: 27]
+Dice coefficient: 0.8839
+IoU: 0.79
+
+[image: 28]
+Dice coefficient: 0.9643
+IoU: 0.93
+
+[image: 29]
+Dice coefficient: 0.9571
+IoU: 0.92
+
+[image: 30]
+Dice coefficient: 0.8593
+IoU: 0.75
+
+[image: 31]
+Dice coefficient: 0.8829
+IoU: 0.79
+
+[image: 32]
+Dice coefficient: 0.6298
+IoU: 0.46
+
+[image: 33]
+Dice coefficient: 0.9487
+IoU: 0.90
+
+[image: 34]
+Dice coefficient: 0.9115
+IoU: 0.84
+
+[image: 35]
+Dice coefficient: 0.5445
+IoU: 0.37
+
+[image: 36]
+Dice coefficient: 0.8574
+IoU: 0.75
+
+[image: 37]
+Dice coefficient: 0.9222
+IoU: 0.86
+
+[image: 38]
+Dice coefficient: 0.9569
+IoU: 0.92
+
+[image: 39]
+Dice coefficient: 0.7704
+IoU: 0.63
+
+[image: 40]
+Dice coefficient: 0.9593
+IoU: 0.92
+
+[image: 41]
+Dice coefficient: 0.8054
+IoU: 0.67
+
+[image: 42]
+Dice coefficient: 0.9503
+IoU: 0.91
+
+[image: 43]
+Dice coefficient: 0.7794
+IoU: 0.64
+
+[image: 44]
+Dice coefficient: 0.7776
+IoU: 0.64
+
+[image: 45]
+Dice coefficient: 0.9412
+IoU: 0.89
+
+[image: 46]
+Dice coefficient: 0.8570
+IoU: 0.75
+
+[image: 47]
+Dice coefficient: 0.9651
+IoU: 0.93
+
+[image: 48]
+Dice coefficient: 0.6910
+IoU: 0.53
+
+[image: 49]
+Dice coefficient: 0.8436
+IoU: 0.73
+
+[image: 50]
+Dice coefficient: 0.9387
+IoU: 0.88
+
+[image: 51]
+Dice coefficient: 0.9301
+IoU: 0.87
+
+[image: 52]
+Dice coefficient: 0.9625
+IoU: 0.93
+
+[image: 53]
+Dice coefficient: 0.9670
+IoU: 0.94
+
+[image: 54]
+Dice coefficient: 0.9589
+IoU: 0.92
+
+[image: 55]
+Dice coefficient: 0.8967
+IoU: 0.81
+
+[image: 56]
+Dice coefficient: 0.9528
+IoU: 0.91
+
+[image: 57]
+Dice coefficient: 0.9009
+IoU: 0.82
+
+[image: 58]
+Dice coefficient: 0.7915
+IoU: 0.65
+
+[image: 59]
+Dice coefficient: 0.9463
+IoU: 0.90
+
+[image: 60]
+Dice coefficient: 0.9432
+IoU: 0.89
+
+Average Dice Coefficient: 0.8619
+Average IoU (Jaccard Index): 0.7695
